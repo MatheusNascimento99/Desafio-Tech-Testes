@@ -7,6 +7,5 @@ describe("Int - Aluno Suite", () => {
     expect(response.headers["content-type"]).toMatch(/json/);
     expect(response.body.data).toHaveLength(20);
     expect(response.body.length).toBeGreaterThan(0); //*Verificando se pelo menos um aluno está presente na resposta
-    expect(response.body.length).toBe(0); //* Verificando se a lista está vazia
   });
 });
