@@ -1,3 +1,11 @@
+# Projeto Testes Unitários e Testes de Integração
+
+Olá pessoal! 😃
+
+Este foi mais um desafio interessante que eu concluí, um projeto para realizar testes unitários e de integração nas rotas POST e GET. Abaixo estão as informações sobre o projeto. Se tiver alguma dúvida ou curiosidade, não hesite em entrar em contato! 😄
+
+
+
 # Testes de Integração Rota GET
 ### Detalhes dos Testes Arquivo aluno.get.int.spec.ts
 <br>
