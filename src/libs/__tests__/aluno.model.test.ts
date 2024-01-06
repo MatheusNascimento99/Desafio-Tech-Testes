@@ -1,7 +1,7 @@
 import { Aluno } from "../../module/aluno/aluno.model";
 import { KnexService } from "../../service/knex";
 
-describe("Aluno model Suite", () => {
+describe("Unit - Aluno model Suite", () => {
   it("Deverá ser verdadedeiro", () => {
     expect(true).toBe(true);
   });
